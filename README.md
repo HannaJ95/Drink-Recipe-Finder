@@ -1,9 +1,5 @@
 # Drink Recipe Finder
 
-**Live site:** https://hannajohansson01.se/Drink-Recipe-Finder/
-
-## About the project
-
 A responsive web app that fetches random cocktail recipes from [TheCocktailDB API](https://www.thecocktaildb.com/api.php).
 
 ## Features
